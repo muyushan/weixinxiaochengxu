@@ -1,0 +1,3 @@
+/* pages/zujian/zujian.wxss */
+.titleText{text-align: center;font-weight: bold; display: block;width:100%;}
+.sc_h{height: 300px;border: 1px solid red;}

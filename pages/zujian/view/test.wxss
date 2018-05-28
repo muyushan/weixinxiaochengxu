@@ -1,0 +1,10 @@
+/* pages/index/test.wxss */
+@import "../../../lib/weui.wxss";
+
+.section_title{text-align: center;font-weight:bold;}
+.flex-wrp {display: flex;}
+.bc_green {background: green;width:100px; height: 100px;}
+.bc_red {background: red;width:100px; height: 100px;}
+.bc_blue {background: blue;width:100px; height: 100px;}
+.bc_row_hover {height: 200px;}
+.bc_column_hover {width: 500px;}

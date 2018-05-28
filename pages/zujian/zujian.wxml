@@ -1,0 +1,21 @@
+<!--pages/zujian/zujian.wxml-->
+<text class='titleText'>组件Demo</text>
+<scroll-view scroll-y class='sc_h'>
+<text class='titleText'>视图容器</text>
+<text class='titleText'>视图容器</text>
+<text class='titleText'>视图容器</text>
+<text class='titleText'>视图容器</text>
+<text class='titleText'>视图容器</text>
+<text class='titleText'>视图容器</text>
+<text class='titleText'>视图容器</text>
+<text class='titleText'>视图容器</text>
+<text class='titleText'>视图容器</text>
+<text class='titleText'>视图容器</text>
+<text class='titleText'>视图容器</text>
+<text class='titleText'>视图容器</text>
+<text class='titleText'>视图容器</text>
+<text class='titleText'>视图容器</text>
+<text class='titleText'>视图容器</text>
+<text class='titleText'>视图容器</text>
+</scroll-view>
+

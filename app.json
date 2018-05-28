@@ -1,0 +1,16 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/zujian/view/test",
+    "pages/logs/logs",
+    "pages/zujian/scroll/scrollview",
+    "pages/zujian/zujian"
+  ],
+  "window": {
+    "backgroundTextStyle": "dark",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "微信小程序",
+    "navigationBarTextStyle": "black",
+    "enablePullDownRefresh": true
+  }
+}
